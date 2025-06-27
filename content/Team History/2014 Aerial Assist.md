@@ -23,6 +23,7 @@ All match data from [The Blue Alliance](https://www.thebluealliance.com/)
 ## North Bay Regional
 
  After the team's success at GTR West , the team competed at the North Bay Regional competition. Through 11 qualification matches, the team went 7-4, seeding 6th again.  The team captained alliance 4, and was eliminated in the quarterfinals.  The team won the [[Highest Rookie Seed Award]], the [[Creativity Award]], and the [[Rookie All-Star Award]], qualifying the team for the World Championship in St. Louis.
+ 
 ![[IMG_0091.jpg|600]]
 ## World Championship
  
