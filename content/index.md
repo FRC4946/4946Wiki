@@ -17,7 +17,9 @@ This resource is constantly changing as new lessons are learned, new practices a
 
 # Team History
 - [[Team Creation]]
-- [[Aerial Assist]]
+- [[2014 Aerial Assist]]
+- [[2015 Recycle Rush]]
+- [[2016 Stronghold]]
 
-## Team Wiki Updates
+# Team Wiki Updates
 - [[Updating the team wiki]]
