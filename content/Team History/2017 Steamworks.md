@@ -22,7 +22,7 @@ The team's first event of 2017 season was the Durham College competition.  Throu
 ![[durham 2017.jpg|600]]
 ## Georgian College District Event
 
-The teams second event was the Georgian College competition.  Through 12 qualifying matches, the team went 7-5, seeding 12th.  The team was the first pick of alliance 7, and was eliminated in the quarterfinals.  The team  won the [[Excellence in Engineering Award]].
+The teams second event was the Georgian College competition.  Through 12 qualifying matches, the team went 7-5, seeding 12th.  The team was the first pick of alliance 7, and was eliminated in the quarterfinals.  The team won the [[Excellence in Engineering Award]].
 ![[DSC00899.jpg|600]]
 ## North Bay District Event
 

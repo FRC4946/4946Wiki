@@ -21,6 +21,7 @@ This resource is constantly changing as new lessons are learned, new practices a
 - [[2015 Recycle Rush]]
 - [[2016 Stronghold]]
 - [[2017 Steamworks]]
+- [[2018 Power Up]]
 
 # Team Wiki Updates
 - [[Updating the team wiki]]
