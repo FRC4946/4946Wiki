@@ -22,6 +22,13 @@ This resource is constantly changing as new lessons are learned, new practices a
 - [[2016 Stronghold]]
 - [[2017 Steamworks]]
 - [[2018 Power Up]]
+- [[2019 Destination Deep Space]]
+- [[2020 Infinite Recharge]]
+- [[2021 Infinite Recharge at Home]]
+- [[2022 Rapid React]]
+- [[2023 Charged Up]]
+- [[2024 Crescendo]]
+- [[2025 Reefscape]]
 
 # Team Wiki Updates
 - [[Updating the team wiki]]

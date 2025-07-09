@@ -29,7 +29,7 @@ The teams second event was the Georgian College competition.  Through 12 qualify
 The team was offered the opportunity to attend a 3rd qualifying event this season as extra practice.  Through 12 qualification matches, the team went 8-4, ranking 6th.  The team captained alliance 4, and were eliminated in the semifinals.  The team won the [[Excellence in Engineering Award]].
 ![](https://www.youtube.com/watch?v=WddXFj5RcSw&ab_channel=FRCOntarioReplays)
 ## Ontario Provincial Championship
-From the team's performance at qualifying events, the team was offered a spot at the provincial championship.  Through 11 qualification matches, the team went 7-4, seeding 16th.  The team was the first pick of alliance 5, and was eliminated in the semifinals.  With the season performance, the team finished 12th in the province, and qualified for a spot at the world championship.
+From the team's performance at qualifying events, the team was offered a spot at the provincial championship.  Through 11 qualification matches, the team went 7-4, seeding 16th.  The team was the first pick of alliance 5, and was eliminated in the semifinals.  With the season performance, the team finished 12th in Ontario, and qualified for a spot at the world championship.
 ![[IMG_0841.jpg|600]]
 ## World Championship
 The team was placed in the Curie division at the world championship.  Through 10 matches, the team went 6-4, seeding 9th.  The team was the first pick of alliance 6, and were the event finalists.  The team also won the [[Excellence in Engineering Award]].
