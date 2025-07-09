@@ -16,7 +16,8 @@ All match data from [The Blue Alliance](https://www.thebluealliance.com/)
 
 ## Newmarket District Event
 
-The team's first event of the 2025 season was the Newmarket competition.  Through 12 qualification matches, the team went 12-0, ranking 1st.  The team was the captain of alliance 1, and went 5-0 in playoffs, winning the event undefeated.  The team also won the [[Quality Award]].  
+The team's first event of the 2025 season was the Newmarket competition.  Through 12 qualification matches, the team went 12-0, ranking 1st.  The team was the captain of alliance 1, and went 5-0 in playoffs, winning the event undefeated.  The team also won the [[Quality Award]].
+
 ![[54364409689_534d17a326_o.jpg|600]]
 
 ## North Bay District Event
