@@ -13,7 +13,8 @@ This resource is constantly changing as new lessons are learned, new practices a
 - [[Media]]
 
 # Competition Roles
-
+- [[Drive Team]]
+- [[Scouting]]
 
 # Team History
 - [[Team Creation]]
