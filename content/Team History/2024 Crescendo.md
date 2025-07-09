@@ -20,7 +20,7 @@ All match data from [The Blue Alliance](https://www.thebluealliance.com/)
 
 ## Humber College District Event
 
-The team's first event of the 2024 season was the Humber College competition.  Through 12 qualification matches, the team went 9-3, seeding 1st.  The team captained alliance 1, and were the event finalists.  The team also won the [[Gracious Professionalism Award]].
+The team's first event of the 2024 season was the Humber College competition.  Through 12 qualification matches, the team went 9-3, seeding 1st.  The team captained alliance 1, and were the event finalists.  The team also won the [[Gracious Professionalism Award]].  
 ![[53605052806_51d629b140_o.jpg|600]]
 ## Windsor Essex Great Lakes District Event
 
