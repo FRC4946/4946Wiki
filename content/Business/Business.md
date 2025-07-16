@@ -1,0 +1,1 @@
+The business sub-team works to secure sponsorships and grants for the team, and do presentations to sponsors.  They are also responsible for preparing documentation and presentations for awards at tournaments.

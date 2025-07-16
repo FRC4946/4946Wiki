@@ -1,0 +1,1 @@
+The programming sub-team writes code for the robot and other team projects.

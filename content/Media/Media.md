@@ -1,0 +1,1 @@
+The media sub-team is responsible for taking photos at team events, meetings, and competitions.  They are also responsible for the teams social media.
