@@ -12,9 +12,10 @@ This resource is constantly changing as new lessons are learned, new practices a
 - [[Business]]
 - [[Media]]
 
-# Competition Roles
+# Competitions
 - [[Drive Team]]
 - [[Scouting]]
+- [[Event Structure]]
 
 # Team History
 - [[Team Creation]]
