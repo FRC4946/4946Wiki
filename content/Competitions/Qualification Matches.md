@@ -1,0 +1,3 @@
+Qualification matches determine the rank of teams at the event.  In these matches, teams earn ranking points for winning the match, and completing objectives in the match.  These ranks are then used in [[Alliance Selection]].
+# Number of Qualification Matches
+All teams will have the same number of qualification matches (that count) at any event.  At qualifying events and the Ontario Provincial Championship teams will get 12 qualification matches.  At the world championship, teams will get 10 qualification matches.  When a schedule is created, if there is not an even number of matches per team, teams with extra matches will play those matches as "Surrogate Matches" which will not count towards their ranking.
