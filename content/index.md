@@ -16,6 +16,7 @@ This resource is constantly changing as new lessons are learned, new practices a
 - [[Scouting]]
 - [[Pit Crew]]
 - [[Event Structure]]
+- [[Event Awards]]
 
 # Team History
 - [[2013 Team Creation]]
