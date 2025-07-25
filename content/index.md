@@ -1,4 +1,4 @@
-This resource is a wiki-like reference for The Alpha Dogs. This tool was built using [obsidian](https://obsidian.md/) editing [markdown](https://en.wikipedia.org/wiki/Markdown)script.   
+This resource is a wiki-like reference for The Alpha Dogs. This tool was built using [Obsidian](https://obsidian.md/) editing [markdown](https://en.wikipedia.org/wiki/Markdown)script.   
 
 This reference collects general team knowledge, best practices, and team history into one interconnected resources to help team members to learn about the team and improve themselves and the team.  
 

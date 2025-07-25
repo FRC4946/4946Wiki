@@ -1,0 +1,1 @@
+The Highest Rookie Seed Award was an award that celebrated the rookie team at an event that seeded the highest.  This award is no longer presented at [[FIRST Robotics Competition]] events.

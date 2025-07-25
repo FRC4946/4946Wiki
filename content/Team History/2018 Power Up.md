@@ -26,7 +26,7 @@ The team's second event was the York University competition.  Through 12 qualify
 ![](https://youtu.be/Eeu_zF13bps)
 ## Ontario Provincial Championship
 
-From the team's performance at qualifying events, the team was invited to the provincial championship, and was placed in the Technology division.  Through 12 qualifying matches, the team went 9-3, finishing 8th.  The team captained alliance 5, and was eliminated in the quarterfinals.  The team also won the [[Entrepreneurship Award]].  With the season's performance, the team finished 23rd in Ontario, and qualified for a spot at the world championship.
+From the team's performance at qualifying events, the team was invited to the provincial championship, and was placed in the Technology division.  Through 12 qualifying matches, the team went 9-3, finishing 8th.  The team captained alliance 5, and was eliminated in the quarterfinals.  The team also won the [[Team Sustainability Award]].  With the season's performance, the team finished 23rd in Ontario, and qualified for a spot at the world championship.
 ![[IMG_8705.jpg|600]]
 
 ## World Championship

@@ -18,7 +18,7 @@ The team's robot, named Alph was built on a kit bot drivetrain, with an extendin
 All match data from [The Blue Alliance](https://www.thebluealliance.com/)
 ## Greater Toronto West Regional
 
- The team competed at the Greater Toronto West Regional (GTR West) competition.  Through 12 qualification matches, the team went 7-5, seeding 6th.  The team captained alliance 4, and was eliminated in the quarterfinals.  The team won the winning the [[Highest Rookie Seed Award]], the [[Innovation in Control Award]] , as well as the [[Rookie Inspiration Award]]. 
+ The team competed at the Greater Toronto West Regional (GTR West) competition.  Through 12 qualification matches, the team went 7-5, seeding 6th.  The team captained alliance 4, and was eliminated in the quarterfinals.  The team won the winning the [[Highest Rookie Seed Award]], the [[Innovation in Control Award]] , as well as the [[Rising All-Star Award]]. 
 ![](https://www.youtube.com/watch?v=5GQoxA2wPC4&ab_channel=TreborKnight)
 ## North Bay Regional
 
@@ -27,7 +27,7 @@ All match data from [The Blue Alliance](https://www.thebluealliance.com/)
 ![[IMG_0091.jpg|600]]
 ## World Championship
  
- After a long travel, the team competed at the world championship in the Archimedes Division.  Through 10 qualification matches, the team went 6-4. The team won the [[Rookie Inspiration Award]] for the division. 
+ After a long travel, the team competed at the world championship in the Archimedes Division.  Through 10 qualification matches, the team went 6-4. The team won the [[Rising All-Star Award]] for the division. 
 ![[img13.jpg|600]]
 ## Fall Fiesta
 

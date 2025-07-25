@@ -18,7 +18,7 @@ All match data from [The Blue Alliance](https://www.thebluealliance.com/)
 
 ## Durham College District Event
 
-The team's first event of the 2019 season was the Durham College competition.  Through 12 qualification matches, the team went 5-7, seeding 16th.  The team was the first pick of alliance 4, and was eliminated in the quarterfinals.  The team also won the [[Entrepreneurship Award]].
+The team's first event of the 2019 season was the Durham College competition.  Through 12 qualification matches, the team went 5-7, seeding 16th.  The team was the first pick of alliance 4, and was eliminated in the quarterfinals.  The team also won the [[Team Sustainability Award]].
 ![[DSC02216.jpg|600]]
 ## North Bay District Event
 
