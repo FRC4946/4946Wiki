@@ -16,7 +16,7 @@ At the end of [[FIRST Robotics Competition]] events, teams and individuals are p
 - [[Engineering Inspiration Award]]
 - [[Gracious Professionalism Award]]
 - [[Imagery Award]]
-- [[Judges Award]]
+- [[Judge's Award]]
 - [[Rising All-Star Award]]
 - [[Rookie All-Star Award]]
 - [[Team Spirit Award]]

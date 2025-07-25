@@ -1,0 +1,1 @@
+The design sub-team is responsible for creating CAD models of robot components, and an overall robot assembly to be manufactured by the [[Build Team|Build Team]] sub-team.

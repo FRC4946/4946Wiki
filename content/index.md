@@ -5,11 +5,11 @@ This reference collects general team knowledge, best practices, and team history
 This resource is constantly changing as new lessons are learned, new practices are adopted, and new challenges are undertaken.
 
 # Sub-teams
-- [[Design]]
-- [[content/Build/Build|Build]]
-- [[Programming]]
-- [[Business]]
-- [[Media]]
+- [[Design Team]]
+- [[Build Team]]
+- [[Programming Team]]
+- [[Business Team]]
+- [[Media Team]]
 
 # Competitions
 - [[Drive Team]]

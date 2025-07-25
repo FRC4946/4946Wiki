@@ -16,4 +16,4 @@ A specific judging criterion is based upon the team’s description of how the m
 The students select an eligible mentor, enter reference information, and a maximum three thousand (3,000) character essay (this includes spaces, punctuation and line breaks) written in English. Eligible Mentors can be selected from a pull-down menu. Teams must upload one (1) headshot photo of the mentor alone and may also add up to to three (3) additional pictures, totaling no more than 1.0 MB of memory. This submission should be a team effort and will stand alone as the team’s entry to award their candidate the deserved recognition.
 
 # Team Approach
-Each year a mentor is selected to be nominated.  The [[Business]] team interview the mentor and write an essay for the submission, and submits the award.
+Each year a mentor is selected to be nominated.  The [[Business Team]] team interview the mentor and write an essay for the submission, and submits the award.

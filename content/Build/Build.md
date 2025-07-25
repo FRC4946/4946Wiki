@@ -1,1 +1,0 @@
-The build sub-team is responsible for the physical construction of the robot's components that the [[Design]] sub-team creates, and the assembly of the robot.  This sub-team also works on the repair of the robot over the course of the season, especially at tournaments.  

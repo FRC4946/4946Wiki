@@ -22,5 +22,5 @@ The team's first event of the 2015 season was at the Greater Toronto Central com
 ![](https://youtu.be/AWXJDPgkIi0)
 ## North Bay Regional
 
-The team then competed at the North Bay competition.  The team had a qualifying average score of 70.18, ranking 16th at the event.  The team was 1st pick of alliance 8, and was eliminated in the quarterfinals.  The team also won the [[Judges Award]]. 
+The team then competed at the North Bay competition.  The team had a qualifying average score of 70.18, ranking 16th at the event.  The team was 1st pick of alliance 8, and was eliminated in the quarterfinals.  The team also won the [[Judge's Award]]. 
 ![[DSC02240.jpg]]

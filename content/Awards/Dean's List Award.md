@@ -14,4 +14,4 @@ The global FIRST community is diverse in thought and experience, and Dean’s 
 The team must write and submit essays following the five prompts below. Each essay is limited to 800 characters (punctuation and spaces included). Essays should be specific about the Semifinalist’s individual contributions to FIRST and to their team. Specific examples are helpful to the judges. Information about the Semi-finalist outside of FIRST may also be supportive of the nomination (as it relates to skills learned in FIRST) but is secondary to information about the student’s participation in FIRST.
 
 # Team Approach
-The team's mentors will select 2 students every year who they believe are deserving of recognition.  Members of the [[Business]] team interview the member and write a submission essay for each of the selected members.
+The team's mentors will select 2 students every year who they believe are deserving of recognition.  Members of the [[Business Team]] team interview the member and write a submission essay for each of the selected members.
