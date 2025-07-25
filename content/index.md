@@ -18,7 +18,7 @@ This resource is constantly changing as new lessons are learned, new practices a
 - [[Event Structure]]
 
 # Team History
-- [[Team Creation]]
+- [[2013 Team Creation]]
 - [[2014 Aerial Assist]]
 - [[2015 Recycle Rush]]
 - [[2016 Stronghold]]
