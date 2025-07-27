@@ -11,7 +11,7 @@ In Crescendo, teams collected notes from their loading station and shot them int
 | :------------------------------------------------: | :------------------------------------------------: |
 | ![[4B63EAAB-A1B0-498C-BBC8-99A4B6019673.jpg\|300]] | ![[00CD0AFF-1FFE-4770-98F0-BE21B4AE1E4F.jpg\|300]] |
  
-The team's robot that year was named Cujo.  The robot used a swerve drive, had an under the bumper intake and a shooter.  The robot also had hooks for climbing, and a swinging mechanism to score in the trap.  The team also built a "alternate configuration" for the 2024 robot named Zeus, designed to be used in playoff matches.  This configuration did not have a trap mechanism, but was faster.
+The team's robot that year was named Cujo.  The robot used a swerve drive, had an under the bumper intake and a shooter.  The robot also had hooks for climbing, and a swinging mechanism to score in the trap.  The team also built an "alternate configuration" for the 2024 robot named Zeus, designed to be used in playoff matches.  This configuration did not have a trap mechanism, but was faster.
 
 ![](https://youtu.be/gGytmJGn6Is)
 
