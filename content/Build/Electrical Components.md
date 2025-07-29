@@ -8,6 +8,7 @@ The control system is the brains of the robot.  It runs the code created by the 
 - [[SystemCore]]
 - [[CANivore]]
 - [[Robot Status Light]]
+- [[Pigeon]]
 
 # Power Distribution
 Power for the robot comes from one larger 12V battery, and must be spread out thought the robot to ensure that all the devices onboard get the power that they need and provides surge and overcurrent protection to the devices.
@@ -16,6 +17,7 @@ Power for the robot comes from one larger 12V battery, and must be spread out th
 - [[Power Distribution Panel 2.0]]
 - [[120 Amp Breaker]]
 - [[Voltage Regulation Module]]
+- [[Mini Power Module]]
 
 # Radio
 The radio connects the robot to the driver station during practice, and to the field during competitions. 

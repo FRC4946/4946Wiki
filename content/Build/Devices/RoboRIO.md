@@ -1,4 +1,5 @@
 The RoboRIO was the control system for [[FIRST Robotics Competition]] robots from 2015 to 2021, when it was supplanted by the [[RoboRIO2]]. 
+
 ![[roborio.jpeg]] 
 
 # RoboRIO Hardware Specifications
