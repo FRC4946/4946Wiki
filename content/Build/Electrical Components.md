@@ -8,7 +8,6 @@ The control system is the brains of the robot.  It runs the code created by the 
 - [[SystemCore]]
 - [[CANivore]]
 - [[Robot Status Light]]
-- [[Pigeon]]
 
 # Power Distribution
 Power for the robot comes from one larger 12V battery, and must be spread out thought the robot to ensure that all the devices onboard get the power that they need and provides surge and overcurrent protection to the devices.
@@ -16,7 +15,7 @@ Power for the robot comes from one larger 12V battery, and must be spread out th
 - [[Power Distribution Hub]]
 - [[Power Distribution Panel 2.0]]
 - [[120 Amp Breaker]]
-- [[Voltage Regulation Module]]
+- [[Voltage Regulator Module]]
 - [[Mini Power Module]]
 
 # Radio
@@ -62,6 +61,7 @@ Robots use a variety of sensors to gain data about the position of mechanisms an
 - [[CANcoder]]
 - [[CANrange]]
 - [[Limit Switch]]
+- [[Pigeon]]
 
 # Servos
 Servos are a type of motor that use their own feedback loop to reach a position set in the robot code.  
