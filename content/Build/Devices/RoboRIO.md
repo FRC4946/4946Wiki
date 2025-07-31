@@ -13,6 +13,6 @@ The RoboRIO was the control system for [[FIRST Robotics Competition]] robots fro
 - USB 2.0 for writing software
 
 # RoboRio Wiring
-The roboRio gets power from a 10 A fused port on a [[Power Distribution Hub]] or [[Power Distribution Panel 2.0]].  A [[Robot Status Light]] is wired to the RSL port, and a [[Vivid Hosting VH-109]] or [[Open-Mesh OM5P-AC]] radio is connected with an ethernet cable to the ethernet port.  The CAN loop starts from the RoboRIO, and connects to any devices in the loop.
+The roboRio gets power from a 10 A fused port on a [[Power Distribution Hub]] or [[Power Distribution Panel 2.0]].  A [[Robot Status Light]] is wired to the RSL port, and a [[VH-109]] or [[OM5P-AC]] radio is connected with an ethernet cable to the ethernet port.  The CAN loop starts from the RoboRIO, and connects to any devices in the loop.
 
 ![[frc-control-system-layout-rev.svg]]

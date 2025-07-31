@@ -13,6 +13,6 @@ The Power Distribution Hub made by REV is a main power distribution device for u
 
 
 # Power Distribution Hub Wiring
-The Power Distribution Hub main power supply is connected to the battery and [[120 Amp Breaker]].  The Power Distribution Hub must be connected to the CAN bus started at the [[RoboRIO]] or [[RoboRIO2]].  Smaller amperage devices like[[RoboRIO]] or [[RoboRIO2]], [[Vivid Hosting VH-109]] radio, etc. are connected to the smaller WAGO terminals, and larger devices like motors ([[Kraken x60]], [[Kraken x44]], etc.) are connected to the larger WAGO terminals.
+The Power Distribution Hub main power supply is connected to the battery and [[120 Amp Breaker]].  The Power Distribution Hub must be connected to the CAN bus started at the [[RoboRIO]] or [[RoboRIO2]].  Smaller amperage devices like[[RoboRIO]] or [[RoboRIO2]], [[VH-109]] radio, etc. are connected to the smaller WAGO terminals, and larger devices like motors ([[Kraken x60]], [[Kraken x44]], etc.) are connected to the larger WAGO terminals.
 
 ![[frc-control-system-layout-rev.svg]]

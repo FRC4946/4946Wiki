@@ -21,8 +21,9 @@ Power for the robot comes from one larger 12V battery, and must be spread out th
 # Radio
 The radio connects the robot to the driver station during practice, and to the field during competitions. 
 ## Devices
-- [[Vivid Hosting VH-109]]
-- [[Open-Mesh OM5P-AC]]
+- [[VH-109]]
+- [[OM5P-AC]]
+- [[Radio Power Module]]
 
 # Motors and Controllers
 Motors are how the robot moves around the field and drives the mechanisms to interact with game elements and the field.  Each motor needs a controller to translate signals from the control system to voltage applied to the motor.
