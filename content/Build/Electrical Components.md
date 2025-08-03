@@ -36,10 +36,10 @@ Devices are divided into motors and controllers, however some motors may have th
 - [[Minion]]
 - [[NEO Vortex]]
 - [[NEO 550]]
-- [[NEO V 1.1]]
+- [[NEO V1.1]]
 - [[CIM]]
 - [[Mini CIM]]
-- [[775]]
+- [[775 Pro]]
 ### Controllers
 - [[Talon FX]]
 - [[Victor SPX]]
